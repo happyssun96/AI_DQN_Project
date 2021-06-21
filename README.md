@@ -1,5 +1,4 @@
 # AI_DQN_Project
-<h2>인공지능 Cartpole 자율 제어를 위한 강화 학습 비교 실험 프로젝트</h2>
 DQN을 이용하여 Cartpole 문제 해결하기
 
 [수정한 사항] - 성능 비교분석
